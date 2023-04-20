@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(18, 17, 17, 0.763);
+}
+h1{
+    color: rgb(252, 252, 252);
+}
+.add-button {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+  }
+  
